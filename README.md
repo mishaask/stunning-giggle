@@ -16,9 +16,9 @@
 חלק ב:
 
 שני המשחקים שבחרתי הם:
-הHULK (6.ג) שיקרא BigManHero:
+הHULK (6.ג) שיקרא VillainMan:
 
-וWorld War z (5.ג) שיקרא SupeRun:
+וWorld War z (5.ג) שיקרא SuperRun:
 
 
 </div>
